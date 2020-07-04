@@ -4332,10 +4332,10 @@ nav .sidenav-trigger i {
 
 nav .brand-logo {
   position: absolute;
-  color: #fff;
+  /* color: #fff; */
   display: inline-block;
-  font-size: 2.1rem;
-  padding: 6px;
+  padding: 8px;
+
 }
 
 nav .brand-logo.center {
